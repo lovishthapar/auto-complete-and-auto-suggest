@@ -41,7 +41,8 @@ An interactive web application that demonstrates and compares different string s
 │   └── trie.js
 └── README.md
 ```
-
+if you want to use online use this link
+https://lovishthapar.github.io/auto-complete-and-auto-suggest/
 ## 🧪 How to Use
 
 1. Open the app in your browser.
